@@ -1,0 +1,68 @@
+button input[type="submit"] {
+    background-color: #d9edff;
+    border: 1px solid transparent;
+    border-radius: 6.00 rem;
+    font-size: 0.95rem;
+    font-weight: 400;
+}
+
+body
+{
+
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+}
+
+p
+{
+    font-family:'montserrat';
+}
+
+#theodolorette
+{
+    border: 1px solid red;
+}
+
+tr
+{
+    color: black;
+    background-color: lightblue;
+    text-align: center;
+    border: 1px solid red;
+}
+
+td
+{
+    border: 1px solid red;
+}
+
+h1{
+    color:turquoise;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2
+{
+    color:black;
+    font-family:sans-serif;
+}
+
+
+a
+{
+    color: var(--bs-blue);
+}
+
+.blockquote-footer
+{
+    text-align:center;
+}
+
+img
+{
+    align: center;
+}
